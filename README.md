@@ -329,7 +329,9 @@ Web-Based-ML-Model-Evaluator/
 │
 ├── README.md
 │
-└── Web_Based_ML_Model_Evaluator_SRS.pdf
+├── Web_Based_ML_Model_Evaluator_SRS.pdf
+│
+└── Web-Based-ML-Model-Evaluator-Test-Plan.pdf
 ```
 
 ---
@@ -394,9 +396,10 @@ Planned development activities include:
 The main project documentation currently available in this repository is:
 
 | Document | Description |
-|---|---|
+|----------|-------------|
 | `README.md` | Project overview and repository documentation |
 | `Web_Based_ML_Model_Evaluator_SRS.pdf` | Software Requirements Specification |
+| `Web-Based-ML-Model-Evaluator-Test-Plan.pdf` | Software Test Plan and testing strategy |
 
 ---
 
